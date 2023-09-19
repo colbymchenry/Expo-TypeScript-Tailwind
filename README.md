@@ -14,3 +14,10 @@ Go into the app.json and make sure to update
     "slug": "expo-typescript-tailwind"
 }
 ```
+#### to -->
+```
+{
+    "name": "<your_project_id>",
+    "slug": "<your_project_id>"
+}
+```

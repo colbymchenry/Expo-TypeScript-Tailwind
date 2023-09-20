@@ -21,3 +21,5 @@ Go into the app.json and make sure to update
     "slug": "<your_project_id>"
 }
 ```
+## Don't want to use Firebase with a basic login/sign up page?
+Go to the https://github.com/colbymchenry/Expo-TypeScript-Tailwind-Routing branch and download it!

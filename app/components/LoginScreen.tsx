@@ -51,7 +51,7 @@ export default function LoginScreen() {
           </View>
           {/* Blurb */}
           <Text className="mt-8 text-lg tracking-tight leading-6 text-gray-400">
-            Pythius helps developers to build organized and well coded dashboards full of beautiful and rich modules. Join us and start building your application today.
+            Our organization helps developers to build organized and well coded dashboards full of beautiful and rich modules. Join us and start building your application today.
           </Text>
         </View>
       </View>

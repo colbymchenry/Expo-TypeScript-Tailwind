@@ -7,16 +7,12 @@
     "plugins": [
       "expo-router"
     ],
-    "name": "pythius-demo",
-    "slug": "pythius-demo",
+    "name": "<your_app_id>",
+    "slug": "<your_app_id>",
     "extra": {
       "router": {
         "origin": false
-      },
-      "eas": {
-        "projectId": "e3e2ae72-7f1a-4ddf-b29f-6d668ec8659c"
       }
-    },
-    "owner": "colby.mchenry"
+    }
   }
 }

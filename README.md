@@ -1,4 +1,4 @@
-# Expo + Typescript + Tailwind + Routing
+# Expo + Typescript + Tailwind + Routing + Firebase
 
 Simply clone
 

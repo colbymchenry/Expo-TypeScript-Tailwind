@@ -6,6 +6,7 @@ module.exports = function (api) {
       "@babel/plugin-proposal-export-namespace-from",
       "nativewind/babel",
       "react-native-reanimated/plugin",
+      'react-native-paper/babel',
       require.resolve("expo-router/babel"),
     ],
   };

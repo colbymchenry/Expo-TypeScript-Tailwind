@@ -1,3 +1,4 @@
+import { Link } from "expo-router";
 import { Text, View } from "react-native";
 
 export default function Page() {
@@ -8,6 +9,7 @@ export default function Page() {
         <Text className="text-3xl text-gray-700">
           This is the first page of your app.
         </Text>
+        <Link className="text-2xl" href="/about">About</Link>
       </View>
     </View>
   );

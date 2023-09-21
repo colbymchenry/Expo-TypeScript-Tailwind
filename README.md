@@ -25,15 +25,19 @@ Go into the app.json and make sure to update
 `
 npx expo install expo-dev-client
 `
+
 `
 eas login
 `
+
 `
 https://docs.expo.dev/develop/development-builds/create-a-build/
 `
+
 `
 eas build:run -p ios
 `
+
 `
 npx expo start --dev-client
 `
